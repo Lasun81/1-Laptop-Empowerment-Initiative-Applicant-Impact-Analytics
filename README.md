@@ -45,6 +45,7 @@
 - [Author](#-author)
 
 ---
+<img width="1920" height="1080" alt="Screenshot 2026-09-19 015018" src="https://github.com/user-attachments/assets/57e27f47-27c5-460c-9eae-82117c2452f4" />
 
 # 📊 Project Overview
 
